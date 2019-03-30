@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 22
 22
 aa
 bbb
-=======
 aaa
->>>>>>> testing
